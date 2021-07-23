@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Lavarel, Pentesting, MERN stack
+- 🌱 I’m currently learning Lavarel, Pentesting, MERN stack and how to focus on just 1 thing at a time.
 - 👯 I’m looking to collaborate on Flutter, Php.
 - 🤔 I’m looking for help with Cybersecurity and Networking
 - 💬 Ask me about **My day** and about Flutter while you are at it
